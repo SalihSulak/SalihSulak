@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
-<h3 align="center">Junior Software Engineer , Junior Backend Developer</h3>
+<h3 align="center">Software Engineer , Backend Developer</h3>
 
 - 🌱 I’m currently learning **Java,Spring Framework**
 
